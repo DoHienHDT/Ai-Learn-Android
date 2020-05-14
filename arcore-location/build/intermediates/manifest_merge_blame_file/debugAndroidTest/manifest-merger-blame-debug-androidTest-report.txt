@@ -1,0 +1,82 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="uk.co.arcorelocation.test" >
+4
+5    <uses-sdk
+5-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:5:5-74
+6        android:minSdkVersion="24"
+6-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:5:15-41
+7        android:targetSdkVersion="28" />
+7-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:5:42-71
+8
+9    <instrumentation
+9-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:11:5-15:75
+10        android:name="android.support.test.runner.AndroidJUnitRunner"
+10-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:11:22-83
+11        android:functionalTest="false"
+11-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:14:22-52
+12        android:handleProfiling="false"
+12-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:13:22-53
+13        android:label="Tests for uk.co.arcorelocation.test"
+13-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:15:22-73
+14        android:targetPackage="uk.co.arcorelocation.test" />
+14-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:12:22-71
+15
+16    <uses-permission android:name="android.permission.CAMERA" />
+16-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-65
+16-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-62
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-81
+17-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-79
+18-->[__tested_artifact__::arcore-location] /Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:22-76
+19
+20    <application
+20-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:7:5-9:19
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.0.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/795cccac9c34c199144e91a7bada5537/core-1.0.0/AndroidManifest.xml:22:18-86
+22        android:debuggable="true" >
+22-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:7:18-43
+23        <uses-library android:name="android.test.runner" />
+23-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:8:9-60
+23-->/Users/dohien/Desktop/ai-learn-android-master/arcore-location/build/intermediates/tmp/manifest/androidTest/debug/manifestMerger6788224841458114355.xml:8:23-57
+24
+25        <activity
+25-->[com.google.android.gms:play-services-base:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/6fb9b030bc54f1e5540c9a88ad0975df/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+26            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+26-->[com.google.android.gms:play-services-base:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/6fb9b030bc54f1e5540c9a88ad0975df/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+27            android:exported="false"
+27-->[com.google.android.gms:play-services-base:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/6fb9b030bc54f1e5540c9a88ad0975df/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+28            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+28-->[com.google.android.gms:play-services-base:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/6fb9b030bc54f1e5540c9a88ad0975df/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+29
+30        <meta-data
+30-->[com.google.android.gms:play-services-basement:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/ad9d16a47aacb07162cbc7f49302e66e/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+31            android:name="com.google.android.gms.version"
+31-->[com.google.android.gms:play-services-basement:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/ad9d16a47aacb07162cbc7f49302e66e/jetified-play-services-basement-16.0.1/AndroidManifest.xml:24:13-58
+32            android:value="@integer/google_play_services_version" /> <!-- The minimal version code of ARCore APK required for an app using this SDK. -->
+32-->[com.google.android.gms:play-services-basement:16.0.1] /Users/dohien/.gradle/caches/transforms-2/files-2.1/ad9d16a47aacb07162cbc7f49302e66e/jetified-play-services-basement-16.0.1/AndroidManifest.xml:25:13-66
+33        <meta-data
+33-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:33:9-35:41
+34            android:name="com.google.ar.core.min_apk_version"
+34-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:34:13-62
+35            android:value="190120000" /> <!-- This activity is critical for installing ARCore when it is not already present. -->
+35-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:35:13-38
+36        <activity
+36-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:37:9-43:80
+37            android:name="com.google.ar.core.InstallActivity"
+37-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:38:13-62
+38            android:configChanges="keyboardHidden|orientation|screenSize"
+38-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:39:13-74
+39            android:excludeFromRecents="true"
+39-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:40:13-46
+40            android:exported="false"
+40-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:41:13-37
+41            android:launchMode="singleTop"
+41-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:42:13-43
+42            android:theme="@android:style/Theme.Material.Light.Dialog.Alert" />
+42-->[com.google.ar:core:1.7.0] /Users/dohien/.gradle/caches/transforms-2/files-2.1/bf7948df1a2b60a17a6cb575228e785f/core-1.7.0/AndroidManifest.xml:43:13-77
+43    </application>
+44
+45</manifest>

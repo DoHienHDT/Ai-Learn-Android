@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- size text  -->
+    <dimen name="size_text_14">14sp</dimen>
+    <dimen name="size_text_12">12sp</dimen>
+    <dimen name="size_text_18">18sp</dimen>
+
+    <!-- space view-->
+    <dimen name="space_view_4">4dp</dimen>
+    <dimen name="space_view_8">8dp</dimen>
+    <dimen name="space_view_12">12dp</dimen>
+    <dimen name="space_view_16">16dp</dimen>
+    <dimen name="space_view_24">24dp</dimen>
+    <dimen name="space_view_2">2dp</dimen>
+    <dimen name="space_view_48">48dp</dimen>
+    <dimen name="space_view_56">56dp</dimen>
+    <dimen name="space_view_divider">0.1dp</dimen>
+    <dimen name="space_view_80">80dp</dimen>
+    <dimen name="space_view_60">60dp</dimen>
+    <dimen name="space_view_36">36dp</dimen>
+    <dimen name="space_view_20">20dp</dimen>
+    <dimen name="space_view_120">120dp</dimen>
+    <dimen name="space_view_96">96dp</dimen>
+
+    <dimen name="delete_width">90dp</dimen>
+    <dimen name="textsize_normal">14sp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
